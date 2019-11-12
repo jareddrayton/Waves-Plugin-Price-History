@@ -1,0 +1,1 @@
+# Waves-Plugin-Price-History
